@@ -14,7 +14,7 @@ spec:
   spec: 
    containers:
    - name: c1
-     image: ugyenrin/testfb:v8
+     image: ugyenrin/testfb:v9
      imagePullPolicy: Always
      stdin: true
      tty: true
